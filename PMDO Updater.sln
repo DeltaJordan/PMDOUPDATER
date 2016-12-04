@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMDO Updater", "PMDO Updater\PMDO Updater.csproj", "{BAE9DDC3-B0CD-4FBC-8AC7-D74A8ABA953B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMDO Launcher", "PMDO Launcher\PMDO Launcher.csproj", "{0FF8B1BB-44CE-4BF6-AC77-1D87DE89E448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE9DDC3-B0CD-4FBC-8AC7-D74A8ABA953B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE9DDC3-B0CD-4FBC-8AC7-D74A8ABA953B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE9DDC3-B0CD-4FBC-8AC7-D74A8ABA953B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE9DDC3-B0CD-4FBC-8AC7-D74A8ABA953B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF8B1BB-44CE-4BF6-AC77-1D87DE89E448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF8B1BB-44CE-4BF6-AC77-1D87DE89E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF8B1BB-44CE-4BF6-AC77-1D87DE89E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF8B1BB-44CE-4BF6-AC77-1D87DE89E448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
